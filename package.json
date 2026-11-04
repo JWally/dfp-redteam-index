@@ -1,0 +1,8 @@
+{
+  "name": "dfp-redteam-index",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Link page / index for the DFP & anti-bot red-team vendor writeups: 16 public repos + private stytch/oscilar, per-vendor blurb + payload-observed/tamper/mintable flags + crack difficulty scores (2026-11-01)",
+  "scripts": {},
+  "dependencies": {}
+}
